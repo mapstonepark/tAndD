@@ -37,6 +37,12 @@ ol, ul {
 	list-style: none;
 }
 
+span {
+	font-weight: bold;
+	padding-left: 70%;
+	
+}
+
 blockquote, q {
 	quotes: none;
 }
